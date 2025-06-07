@@ -1,0 +1,7 @@
+Name,Age,Email,Joined
+Alice,25.0,alice@example.com,2020-01-01
+Bob,30.0,bob@example,not a date
+Charlie,,charlie@example.com,2021-05-20
+Alice,25.0,alice@example.com,2020-01-01
+Eve,22.0,,2022-03-15
+,29.0,eve@example.com,2021/07/12
